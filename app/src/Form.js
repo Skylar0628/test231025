@@ -61,7 +61,7 @@ export default function FormDialog() {
           },
         }}
       >
-        <DialogTitle>請輸入車牌號碼</DialogTitle>
+        <DialogTitle>請輸入正規車牌號碼</DialogTitle>
         <DialogContent>
           <DialogContentText>
             To subscribe to this website, please enter your email address here. We
